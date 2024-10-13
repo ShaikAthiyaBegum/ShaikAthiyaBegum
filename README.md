@@ -41,3 +41,13 @@ Continuous learning and collaboration are key to my growth as a developer. I'm a
 ## 🌟 Fun Fact
 
 When I’m not coding, I’m probably experimenting with new UI/UX design trends or diving into the world of creative problem-solving. I believe every project offers an opportunity to learn something new, whether it's a new tool or a fresh perspective on how users interact with technology.
+
+
+
+
+### Stats
+
+
+<div style="display: flex;"> 
+  <img src="https://github-readme-stats-hussaindeesas-projects.vercel.app/api?username=ShaikAthiyaBegum&theme=ambient_gradient&show_icons=true&include_all_commits=true" alt="Hussain's GitHub stats" />
+</div>
