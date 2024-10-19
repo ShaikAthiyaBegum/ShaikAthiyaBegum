@@ -49,5 +49,5 @@ When I’m not coding, I’m probably experimenting with new UI/UX design trends
 
 
 <div style="display: flex;"> 
-  <img src="https://github-readme-stats-hussaindeesas-projects.vercel.app/api?username=ShaikAthiyaBegum&theme=ambient_gradient&show_icons=true&include_all_commits=true" alt="Hussain's GitHub stats" />
+  <img src="https://github-readme-stats-psi-two-98.vercel.app/api?username=ShaikAthiyaBegum&theme=ambient_gradient&show_icons=true&include_all_commits=true" alt="Hussain's GitHub stats" />
 </div>
