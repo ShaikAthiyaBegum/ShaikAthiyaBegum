@@ -1,3 +1,6 @@
+
+
+
 # Hey there, I'm Athiya! 👋
 
 ### Frontend Developer
@@ -51,3 +54,11 @@ When I’m not coding, I’m probably experimenting with new UI/UX design trends
 <div style="display: flex;"> 
   <img src="https://github-readme-stats-psi-two-98.vercel.app/api?username=ShaikAthiyaBegum&theme=ambient_gradient&show_icons=true&include_all_commits=true" alt="Hussain's GitHub stats" />
 </div>
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShaikAthiyaBegum/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShaikAthiyaBegum/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ShaikAthiyaBegum/output/github-snake.svg" />
+</picture>
