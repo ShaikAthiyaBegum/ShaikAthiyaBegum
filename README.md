@@ -31,22 +31,6 @@ I'm a passionate **Frontend Developer** who loves crafting beautiful and interac
 - **Schema Validation**: Using **Zod** for building robust and type-safe validation schemas to handle form data and API responses efficiently.
 - **UI Frameworks**: Building accessible and consistent UI components with **shadcn** and **Radix UI**, ensuring seamless user experience and design flexibility.
 
----
-
-## 💻 What Drives Me
-
-I am motivated by the constant evolution of frontend technologies and the opportunity to solve real-world problems through code. I love how frontend development blends creativity and logic—designing intuitive user interfaces while also building the underlying architecture to support seamless interactions.
-
-Continuous learning and collaboration are key to my growth as a developer. I'm always looking to improve my skills and keep up with the latest trends in web development. Whether it's experimenting with new frameworks like **shadcn** or **Radix UI**, or diving deeper into the intricacies of **ReactJS** and **TypeScript**, I'm always eager to level up.
-
----
-
-## 🌟 Fun Fact
-
-When I’m not coding, I’m probably experimenting with new UI/UX design trends or diving into the world of creative problem-solving. I believe every project offers an opportunity to learn something new, whether it's a new tool or a fresh perspective on how users interact with technology.
-
-
-
 
 ### Stats
 
