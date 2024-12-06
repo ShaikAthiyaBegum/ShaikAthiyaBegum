@@ -57,6 +57,10 @@ When I’m not coding, I’m probably experimenting with new UI/UX design trends
 
 
 
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ShaikAthiyaBegum/ShaikAthiyaBegum/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShaikAthiyaBegum/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShaikAthiyaBegum/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ShaikAthiyaBegum/output/github-snake.svg" />
 </picture>
+
