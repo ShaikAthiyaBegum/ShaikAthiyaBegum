@@ -34,9 +34,10 @@ I'm a passionate **Frontend Developer** who loves crafting beautiful and interac
 
 ### Stats
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ShaikAthiyaBegum&theme=ambient-gradient&hide_border=true)](https://git.io/streak-stats)
 
 <div style="display: flex;"> 
-  <img src="https://github-readme-stats-psi-two-98.vercel.app/api?username=ShaikAthiyaBegum&theme=ambient_gradient&show_icons=true&include_all_commits=true" alt="Hussain's GitHub stats" />
+  <img src="https://github-readme-stats-psi-two-98.vercel.app/api?username=ShaikAthiyaBegum&theme=ambient_gradient&show_icons=true&include_all_commits=true" alt="Hussain's GitHub stats" height="205px" />
 </div>
 
 
