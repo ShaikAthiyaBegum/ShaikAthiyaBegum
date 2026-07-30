@@ -14,11 +14,9 @@ I enjoy working across the entire stack—from crafting intuitive interfaces to 
 * TypeScript
 * JavaScript
 * Tailwind CSS
-* Next.js
 * shadcn/ui
 * Radix UI
 * React Query
-* Recoil
 
 ### Backend
 
@@ -33,11 +31,8 @@ I enjoy working across the entire stack—from crafting intuitive interfaces to 
 ### Tools & Infrastructure
 
 * Git & GitHub
-* Docker
-* Linux / WSL
 * Vite
 * Postman
-* Firebase
 * Figma
 
 ---
